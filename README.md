@@ -4,3 +4,4 @@ Anggota Kelompok :
 2. E1E121083_Puspita Maharani Hasan
 3. E1E121040_Sumiartin
 4. E1E121084_Putri Elisya
+5. E1E121004_La Ode Lukmana
